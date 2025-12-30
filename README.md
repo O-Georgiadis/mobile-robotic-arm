@@ -3,6 +3,9 @@
 A small ROS 2 project: a differential-drive mobile base with a 2-DOF robotic arm and a camera.  
 Simulated in `ros_gz_sim` (gz-sim) and visualized with RViz. Includes bridge configuration so ROS ↔ Gazebo topics work.
 
+![Robot in Gazebo](docs/images/gazebo_arm_extended.png)
+
+
 ---
 
 ## Quick Start
